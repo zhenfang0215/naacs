@@ -1,0 +1,7 @@
+github.com/dstotijn/go-notion v0.11.0 h1:v+ZUiyKd+UBk1SRkUSa86QOU5DP8ziSI4E7NFIS4rRU=
+github.com/dstotijn/go-notion v0.11.0/go.mod h1:FWfmGRnE8Drm6CnNQQO7slXcu1lrKmRY2KfFgeq6Z2g=
+github.com/google/go-cmp v0.5.5 h1:Khx7svrCpmxxtHBq5j2mp/xVjsi8hQMfNLvJFAlrGgU=
+github.com/lemonnekogh/guolai v0.2.6 h1:7/57WrEHjpXJWVAThX1ewWXMFgqcw6PwL5fv/yddsj4=
+github.com/lemonnekogh/guolai v0.2.6/go.mod h1:3rSMzwm/5YaZ3b2AvH1slAbTpQw5io28iD5xiRstKdA=
+golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da h1:noIWHXmPHxILtqtCOPIhSt0ABwskkZKjD3bXGnZGpNY=
+golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da/go.mod h1:NDW/Ps6MPRej6fsCIbMTohpP40sJ/P/vI1MoTEGwX90=
