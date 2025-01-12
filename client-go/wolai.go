@@ -3,6 +3,7 @@ package notesasacnofigserver
 import (
 	"encoding/json"
 	"errors"
+	"log"
 	"os"
 
 	"github.com/lemonnekogh/guolai"
@@ -94,6 +95,7 @@ func (naacc *WolaiProvider) GetConfig(appName string, target interface{}) error 
 		}
 	}
 end:
+	log.Println(string(targetItem.Title))
 	err = json.Unmarshal([]byte(targetItem.Title), target)
 	if err != nil {
 		return err
